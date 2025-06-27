@@ -1,0 +1,8 @@
+name = input("PLEASE Enter your name to continue...")
+age = input("PLEASE Enter your age to continue...")
+print(f"Hello {name}, you are {age} years old.")
+city = input("PLEASE Enter your city to continue...")
+print(f"Hello {name}, you are {age} years old and you live in {city}.")
+print("Thank you for providing your information!")
+input("Press Enter to exit...")
+input( "Press Enter to exit...")  # This line is redundant since the previous line already waits for input
