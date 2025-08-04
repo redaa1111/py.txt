@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Meta / Open Graph tags for Meta (Facebook) -->
+  <meta property="og:title" content="Electro Movil iCame" />
+  <meta property="og:description" content="Compra móviles, portátiles y accesorios al mejor precio" />
+  <meta property="og:image" content="https://yourwebsite.com/images/preview.jpg" />
+  <meta property="og:url" content="https://yourwebsite.com" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="es_ES" />
+  <meta name="facebook-domain-verification" content="your-verification-code" />
+
+  <title>Electro Movil iCame</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Electro Movil iCame</h1>
+    <p>Móviles, portátiles y más</p>
+  </header>
+  <main>
+    <img src="https://yourwebsite.com/images/product.jpg" alt="Producto destacado" />
+    <p>Expl
